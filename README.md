@@ -1,3 +1,6 @@
+### Modified version for avoiding permission issues with docker-created files in volumes
+Explaining - https://vsupalov.com/docker-shared-permissions/
+
 # Dr. Surly’s School for Mad Scientists: Interaction Tests, Mocks & Refactoring in Embedded Software Docker Image
 Unit testing environment with ARM cross compiler, Unity, CMock, Ceedling, and Qemu emulator
 
